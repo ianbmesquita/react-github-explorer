@@ -1,44 +1,61 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img alt="GoStack" src=".github/banner-gostack.png" />
 
-## Available Scripts
+<h1 align="center">
+    Github Explorer
+</h1>
 
-In the project directory, you can run:
+## :rocket: Tecnologias
 
-### `yarn start`
+<p float="left">
+  <img alt="CSS3" src=".github/css3.svg" />
+  <img alt="HTML5" src=".github/html5.svg" hspace="10"/>
+  <img alt="ReactJS" src=".github/reactjs.svg" />
+  <img alt="TypeScript" src=".github/typescript.svg" hspace="10" />
+</p>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+-  [CSS3](https://www.w3schools.com/css/)
+-  [HTML5](https://www.w3schools.com/html/)
+-  [ReactJS](https://pt-br.reactjs.org/)
+-  [TypeScript](https://www.typescriptlang.org/)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## :wrench: Ferramentas Utilizadas
 
-### `yarn test`
+- **polished** - Biblioteca que permite a manipulação de cores.
+- **react-icons** - Pacote que possui todos os ícones de fontes para aplicações React.
+- **react-router-dom** - Dependência responsável por lidar com as rotas da aplicação.
+- **styled-components** - Pacote responsável por customizar as estilizações dos componentes.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+## :boom: Como Executar
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- ### **Pré-requisitos**
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+  - É **necessário** possuir o **[Git](https://git-scm.com/)** instalado e configurado.
+  - É **necessário** ter um gerenciador de pacotes seja o **[NPM](https://www.npmjs.com/)** ou **[Yarn](https://yarnpkg.com/)**.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Faça um clone do repositório:
 
-### `yarn eject`
+```sh
+  $ git clone https://github.com/ianbmesquita/react-github-explorer.git
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+2. Executando a Aplicação:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```sh
+  # Acessando o diretório da aplicação.
+  $ cd react-github-explorer
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+  # Instalando as dependências do projeto.
+  $ yarn # ou npm install
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+  # Inicializando o servidor ReactJS.
+  $ yarn start # ou npm start	
+```
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## :memo: Licença
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
+<sup>Projeto desenvolvido com a tutoria de [Diego Fernandes](https://github.com/diego3g), da [Rocketseat](rocketseat.com.br).</sup>
