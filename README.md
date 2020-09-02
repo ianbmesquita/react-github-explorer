@@ -20,6 +20,7 @@
 
 ## :wrench: Ferramentas Utilizadas
 
+- **axios** - Pacote responsável por fazer as requisições no front end.
 - **polished** - Biblioteca que permite a manipulação de cores.
 - **react-icons** - Pacote que possui todos os ícones de fontes para aplicações React.
 - **react-router-dom** - Dependência responsável por lidar com as rotas da aplicação.
