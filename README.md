@@ -1,8 +1,31 @@
 <img alt="GoStack" src=".github/banner-gostack.png" />
 
 <h1 align="center">
-    Github Explorer
+    <img alt="Github Explorer" src=".github/logo-app.png" height="100px" />
 </h1>
+
+
+<p align="center">
+  ![GitHub repo size](https://img.shields.io/github/repo-size/ianbmesquita/react-github-explorer)
+  ![GitHub top language](https://img.shields.io/github/languages/top/ianbmesquita/react-github-explorer)
+  ![GitHub language count](https://img.shields.io/github/languages/count/ianbmesquita/react-github-explorer)
+  ![GitHub](https://img.shields.io/github/license/ianbmesquita/react-github-explorer)
+</p>
+
+<p align="center">
+  <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#wrench-ferramentas-utilizadas">Ferramentas Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#boom-como-executar">Como Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+
+## :bookmark: Sobre
+
+O **Github Explorer** é uma aplicação Web feita para agrupar repositórios do Github de acordo com a preferência do usuário. Por meio dela é possível consultar repositórios e visualizar informações como stars, forks e issues de um repositório.
+
+Essa aplicação foi realizada durante o **Bootcamp GoStack** da [Rocketseat](https://rocketseat.com.br/).
 
 ## :rocket: Tecnologias
 
@@ -33,6 +56,7 @@
 
   - É **necessário** possuir o **[Git](https://git-scm.com/)** instalado e configurado.
   - É **necessário** ter um gerenciador de pacotes seja o **[NPM](https://www.npmjs.com/)** ou **[Yarn](https://yarnpkg.com/)**.
+  - É **necessário** ter um **browser** instalado.
 
 1. Faça um clone do repositório:
 
@@ -52,6 +76,8 @@
   # Inicializando o servidor ReactJS.
   $ yarn start # ou npm start	
 ```
+
+3. Será aberta uma página no browser por meio do endereço **http://localhost:4200/**
 
 
 ## :memo: Licença
