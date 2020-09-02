@@ -1,7 +1,7 @@
 <img alt="GoStack" src=".github/banner-gostack.png" />
 
 <h1 align="center">
-    <img alt="Github Explorer" src=".github/logo-app.png" height="100px" />
+    <img alt="Github Explorer" src=".github/logo-app.png" />
 </h1>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ## :bookmark: Sobre
 
-O **Github Explorer** é uma aplicação Web feita para agrupar repositórios do Github de acordo com a preferência do usuário. Por meio dela é possível consultar repositórios e visualizar informações como stars, forks e issues de um repositório.
+O **Github Explorer** é uma aplicação Web feita para agrupar repositórios do Github de acordo com a preferência do usuário. Por meio dela é possível consultar repositórios e visualizar informações como stars, forks e issues.
 
 Essa aplicação foi realizada durante o **Bootcamp GoStack** da [Rocketseat](https://rocketseat.com.br/).
 
