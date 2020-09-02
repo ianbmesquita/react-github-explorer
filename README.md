@@ -19,8 +19,11 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
+## :art: Layout
+
 <p align="center">
-  <iframe src='//gifs.com/embed/github-explorer-03-OMxAAQ' frameborder='0' scrolling='no' width='1362px' height='736px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+  <img alt="Tela inicial" src=".github/layout01.png" />
+  <img alt="Repositório" src=".github/layout02.png" />
 </p>
 
 
