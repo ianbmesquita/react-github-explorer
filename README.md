@@ -4,12 +4,11 @@
     <img alt="Github Explorer" src=".github/logo-app.png" height="100px" />
 </h1>
 
-
 <p align="center">
-  ![GitHub repo size](https://img.shields.io/github/repo-size/ianbmesquita/react-github-explorer)
-  ![GitHub top language](https://img.shields.io/github/languages/top/ianbmesquita/react-github-explorer)
-  ![GitHub language count](https://img.shields.io/github/languages/count/ianbmesquita/react-github-explorer)
-  ![GitHub](https://img.shields.io/github/license/ianbmesquita/react-github-explorer)
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/ianbmesquita/react-github-explorer">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ianbmesquita/react-github-explorer">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ianbmesquita/react-github-explorer">
+  <img alt="GitHub" src="https://img.shields.io/github/license/ianbmesquita/react-github-explorer">
 </p>
 
 <p align="center">
