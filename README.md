@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <blockquote class="imgur-embed-pub" lang="en" data-id="a/wWCC19X"  ><a href="//imgur.com/a/wWCC19X"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+  <iframe src='//gifs.com/embed/github-explorer-03-OMxAAQ' frameborder='0' scrolling='no' width='1362px' height='736px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 </p>
 
 
