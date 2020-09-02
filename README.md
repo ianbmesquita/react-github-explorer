@@ -19,6 +19,10 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
+<p align="center">
+  <blockquote class="imgur-embed-pub" lang="en" data-id="a/wWCC19X"  ><a href="//imgur.com/a/wWCC19X"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+</p>
+
 
 ## :bookmark: Sobre
 
@@ -76,7 +80,7 @@ Essa aplicação foi realizada durante o **Bootcamp GoStack** da [Rocketseat](ht
   $ yarn start # ou npm start	
 ```
 
-3. Será aberta uma página no browser por meio do endereço **http://localhost:4200/**
+3. Será aberta uma página no browser por meio do endereço **http://localhost:3000/**
 
 
 ## :memo: Licença
